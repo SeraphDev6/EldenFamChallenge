@@ -1,0 +1,103 @@
+
+{
+    "MarikaTheEternal": {
+      "description": "The eternal goddess of the Golden Order and vessel of the Greater Will, whose inscrutable presence shapes the very fabric of the Lands Between.",
+      "stats": {
+        "physical": 5,
+        "holy": 10,
+        "magic": 8,
+        "fire": 3,
+        "lightning": 4,
+        "arcane": 7
+      }
+    },
+    "Godfrey": {
+      "description": "The first Elden Lord and a stalwart champion of the Golden Order, renowned for his martial prowess and unyielding honor.",
+      "stats": {
+        "physical": 9,
+        "holy": 9,
+        "magic": 4,
+        "fire": 2,
+        "lightning": 3,
+        "arcane": 2
+      }
+    },
+    "Radagon": {
+      "description": "A charismatic and formidable warrior, Radagon embodies both mortal strength and divine legacy, his life intertwined with both valor and mystery.",
+      "stats": {
+        "physical": 8,
+        "holy": 6,
+        "magic": 5,
+        "fire": 5,
+        "lightning": 10,
+        "arcane": 6
+      }
+    },
+    "RennalaQueenOfTheFullMoon": {
+      "description": "The enigmatic Queen of the Full Moon and master of sorcery at the Academy of Raya Lucaria, whose arcane wisdom is steeped in lunar mysteries.",
+      "stats": {
+        "physical": 2,
+        "holy": 5,
+        "magic": 10,
+        "fire": 3,
+        "lightning": 6,
+        "arcane": 4
+      }
+    },
+    "GodwynTheGolden": {
+      "description": "A cherished demigod of divine heritage, whose brief life and luminous legacy continue to echo through the annals of the Lands Between.",
+      "stats": {
+        "physical": 5,
+        "holy": 7,
+        "magic": 2,
+        "fire": 7,
+        "lightning": 3,
+        "arcane": 5
+      }
+    },
+    "Morgott": {
+      "description": "Known as the Omen King, Morgott is a tragic demigod burdened by a cursed fate, a living testament to the darker undercurrents of divine legacy.",
+      "stats": {
+        "physical": 7,
+        "holy": 3,
+        "magic": 7,
+        "fire": 2,
+        "lightning": 5,
+        "arcane": 7
+      }
+    },
+    "Mohg": {
+      "description": "The Lord of Blood, Mohg commands a sinister realm of corruption and raw, dark power, marked by rituals steeped in ancestral malice.",
+      "stats": {
+        "physical": 5,
+        "holy": 1,
+        "magic": 4,
+        "fire": 3,
+        "lightning": 4,
+        "arcane": 10
+      }
+    },
+    "Radahn": {
+      "description": "Radahn, the Starscourge, is a legendary demigod whose colossal martial might and celestial influence have etched him into the lore of epic battle.",
+      "stats": {
+        "physical": 10,
+        "holy": 6,
+        "magic": 9,
+        "fire": 5,
+        "lightning": 7,
+        "arcane": 4
+      }
+    },
+    "Ranni": {
+      "description": "Ranni the Witch is a mysterious and defiant demigod, weaving her own destiny through profound arcane power and a determination to reshape fate.",
+      "stats": {
+        "physical": 2,
+        "holy": 3,
+        "magic": 9,
+        "fire": 4,
+        "lightning": 5,
+        "arcane": 9
+      }
+    }
+  }
+  
