@@ -1,3 +1,5 @@
 .DS_Store
 .env
 *.ipynb
+*.json
+__pycache__

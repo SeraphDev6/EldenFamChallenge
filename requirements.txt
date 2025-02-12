@@ -1,1 +1,4 @@
 typer==0.15.1
+inflect==7.5.0
+instructor-1.7.2
+openai==1.61.1
