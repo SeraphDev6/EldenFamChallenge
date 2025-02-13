@@ -25,6 +25,13 @@ After installation, verify Ollama is working:
 ollama pull llama3:8b
 ```
 
+### Getting an OpenAI API Key
+#### Recommended if you don't have a dedicated GPU to run Ollama locally
+
+1. Follow OpenAI's [quickstart guide](https://platform.openai.com/docs/quickstart) to get your API key
+2. Copy `.env.example` and rename it `.env`
+3. Paste your key as `OPENAI_API_KEY`
+
 ## Installation
 
 1. Clone this repository:
@@ -57,6 +64,12 @@ python main.py normalize
 
 # Search the data to answer a question from the user
 python main.py ask [query]
+
+# Search for the name of an item and get back the most likely Deity to have created it
+python main.py get-most-likely [query]
+
+# Utilizes AI to discover relationships between Deities, based on item descriptions
+python main.py family-tree
 ```
 
 ## Configuration
